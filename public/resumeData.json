@@ -1,26 +1,26 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
+    "name":"Weihao Ke",
     "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
+    "image":"me.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "weihaoke13@gmail.com",
+    "phone": "937-995-0071",
+    "github":"https://github.com/weihaoke13/react-resume",
+    "project":"https://github.com/weihaoke13",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
+      "city":"Los Angeles",
+      "state":"California",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://weihao-ke-resume.tiiny.site/",
+    "resumedownload":"https://weihao-ke-resume.tiiny.site/",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://facebook.com",
         "className":"fa fa-facebook"
       },
       {
@@ -30,17 +30,17 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/weihao-ke/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/weihaoke06",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/weihaoke13",
         "className":"fa fa-github"
       }
     ]
@@ -49,60 +49,78 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of California, Santa Cruz",
+        "degree":"Bachelor's in Computer Science",
+        "graduated":"June 2020",
+        "description":"Dean's Honors List - UC Santa Cruz"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"BAE SYSTEMS USA  ",
+        "title":"Software Engineer ||",
+        "years":" 05/2022 - Present",
+        "description":"-Implemented, Enhanced features using . NET(Visual Basic, C#), and Core Java/Spring/Apache Camel for Mission Planning Systems to be more resilient, and reusable, such as improved user experience, and created middleware to communicate to different machines to machines. -Developed app integration with REST and other APIs for Internal Services. And resolved Level 3 technical support tickets. "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"BALL AEROSPACE & TECHNOLOGIES",
+        "title":"Associate Software Engineer",
+        "years":"09/2021 - 04/2022",
+        "description":"-Created scripts to aggregate important data utilize Python/Pandas, R dplyr.-Implemented Smartabase platform and RESTful API to build dashboard to meet customer's requirements. Interacted with stakeholders for requirement analysis and to define research and functional specifications."
+      },
+      {
+        "company":"TAOZUGONGUSA",
+        "title":"Full stack Developer",
+        "years":"08/2020 - 07/2021",
+        "description":"-Designed and Developed multiple dynamic RESTful Web Applications for E-commerce which are used for Furniture rental and sale based on Vue.js, Node.js, and MongoDB.-Partner alongside another developer to implement RESTful API in Node.js and MongoDB that enable internal tools for design and sale team to increase speed by 30%"
+      },
+      {
+        "company":"Adler & Associates Entertainment",
+        "title":"Front End Engineer Intern ",
+        "years":"06/2019 - 08/2019",
+        "description":"-Developed web pages for the streaming platform and e-commerce site using React.js and Sass, as well as React Router to handle each page individually."
       }
     ],
     "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
       {
         "name":"Python",
         "level":"60%"
       },
       {
-        "name":"VueJs",
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"Vue.Js",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
+        "name":"React.Js",
         "level":"50%"
+      },
+      {
+        "name":".NET VB",
+        "level":"60%"
+      },
+      {
+        "name":".NET C#",
+        "level":"60%"
+      },
+      {
+        "name":"Node.Js",
+        "level":"60%"
+      },
+      {
+        "name":"Spring Boot",
+        "level":"60%"
       },
       {
         "name":"CSS",
         "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
       }
     ]
   },
@@ -173,12 +191,6 @@
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"05.jpg",
         "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
